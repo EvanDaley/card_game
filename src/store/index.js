@@ -49,6 +49,13 @@ const store = createStore({
                     image: "the_rotted.png",
                 },
                 {
+                    name: "From the Beyond",
+                    description: "A rare creature card with high attack and defense values. It has the ability to bypass an opponent's blockers and deal its attack value directly to their hitpoints.",
+                    attack: 9,
+                    defense: 4,
+                    image: "from_the_beyond.png",
+                },
+                {
                     name: "The Wendigo",
                     description: "A spirit of the cold, dark forests that takes the form of a humanoid creature with long, sharp claws and antlers.",
                     attack: 10,
