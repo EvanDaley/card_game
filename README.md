@@ -1,4 +1,11 @@
 # cards
+An unfinished card game, built with the help of ChatGPT and midjourney.
+
+![Cards](/public/images/readme_app.png "Optional Title")
+
+
+![Game overview](/public/images/readme_app2.png "Optional Title")
+
 
 ## Project setup
 ```

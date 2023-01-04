@@ -21,12 +21,6 @@ export default defineComponent({
     },
 
     setup(props) {
-        console.log("props")
-        console.log(JSON.stringify(props))
-        console.log(JSON.stringify(props.stats))
-        console.log(JSON.stringify(props.stats.name))
-        // const { state, dispatch } = useStore();
-
         return {
             props,
             getImageUrl: (path) => {
