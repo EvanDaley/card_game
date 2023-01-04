@@ -2,19 +2,21 @@
 ## Premise
 An unfinished card game, built with the help of ChatGPT and midjourney.
 
-![Cards](/public/images/readme_app.png "Optional Title")
+![Cards](/public/images/necromancer_card.png "Optional Title")
 
 ## Game loop 
 On load, the game builds a deck, shuffles it, and draws five cards into the player's hand. The player can drag the cards into the playable area or back into their hand. I haven't built any sort of combat logic or enemy deck.
 
-![Game overview](/public/images/readme_app2.png "Optional Title")
+![Cards](/public/images/readme_app.png "Optional Title")
 
 ## Tools
-- Vue
+- Vue 3
 - Vuex
 - Midjourney
 - ChatGPT
 - vuedraggable.next
+
+![Game overview](/public/images/readme_app2.png "Optional Title")
 
 ## Project setup
 ```
