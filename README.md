@@ -1,4 +1,4 @@
-# cards
+# ChatGPT and Midjourney Card Game
 ## Premise
 An unfinished card game, built with the help of ChatGPT and midjourney.
 
